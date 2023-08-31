@@ -1,4 +1,4 @@
-# Página Loja de Móveis
+# Página Flutuar
 
  Esse projeto teve como objetivo criar uma página de uma empresa de venda de pacotes de viagem.
 
